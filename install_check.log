@@ -1,0 +1,8 @@
+Install checked: 2022-08-24T22:12:38-04:00
+
+SYSTEM:	MINGW64_NT-10.0-19043 LAPTOP-HREG3G92 3.1.7-340.x86_64 2021-10-12 16:29 UTC x86_64 Msys
+SHELL:	[/usr/bin/bash]
+GIT:	[/mingw64/bin/git] git version 2.34.1.windows.1
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 8.2 (2019 Dec 12, compiled Sep 21 2021 16:13:20)
+CURL:	[/mingw64/bin/curl] curl 7.80.0 (x86_64-w64-mingw32) libcurl/7.80.0 OpenSSL/1.1.1l (Schannel) zlib/1.2.11 brotli/1.0.9 zstd/1.5.0 libidn2/2.3.1 libssh2/1.10.0 nghttp2/1.45.1
+NODE:	[/c/Users/bekas/.nvm/versions/node/v16.17.0/bin/node] v16.17.0
